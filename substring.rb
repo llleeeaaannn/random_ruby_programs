@@ -9,5 +9,5 @@ def substrings(string, dictionary)
       end
     end
   end
-  print substring_hash
+  return substring_hash
 end
